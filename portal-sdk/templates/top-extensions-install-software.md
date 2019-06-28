@@ -5,7 +5,7 @@
 
 Install the following software. Your team should be aware of the most current download locations so that you can complete your own installs.
 
-1. Windows 10, Windows Server 2012 R2, or the most recent edition of the client or server platform. Some downloads are located at the following sites.
+1. Windows 10, Windows Server 2012 R2, or the most recent edition of the client or server platform.
 
     * Windows 10
     
@@ -15,8 +15,7 @@ Install the following software. Your team should be aware of the most current do
 
       [https://www.microsoft.com/en-us/download/details.aspx?id=41703](https://www.microsoft.com/en-us/download/details.aspx?id=41703)
 
-1. Node.js LTS 8.11.1 or later. It is located at 
-[https://nodejs.org/dist/v8.11.1/node-v8.11.1-x64.msi](https://nodejs.org/dist/v8.11.1/node-v8.11.1-x64.msi).
+1. Node.js LTS 10.6.0 or later. It is located at [https://nodejs.org/dist/v10.6.0/node-v10.6.0-x64.msi](https://nodejs.org/dist/v10.6.0/node-v10.6.0-x64.msi).
 
 1. Install Visual Studio 2017
 
@@ -28,4 +27,4 @@ Install the following software. Your team should be aware of the most current do
 
 1. Azure Portal SDK that is located at [http://aka.ms/portalfx/download](http://aka.ms/portalfx/download)
 
-To validate that your dev machine is ready for Azure Portal Extension development, you can create and build a blank extension, as specified in [portalfx-extensions-create-blank-procedure.md](portalfx-extensions-create-blank-procedure.md).
+To validate that your dev machine is ready for Azure Portal Extension development start with the template extension in the [Getting Started Guide](top-extensions-getting-started.md).

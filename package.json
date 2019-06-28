@@ -10,9 +10,9 @@
     "eol": "^0.9.0",
     "findup": "^0.1.5",
     "get-urls": "^9.1.0",
-    "gitdown": "^2.5.7",
+    "gitdown": "^2.6.1",
     "gulp": "^4.0.2",
-    "markdown-link-extractor": "^1.2.0",
+    "markdown-link-extractor": "^1.2.1",
     "node-dir": "0.1.16",
     "node-fetch": "^1.7.1",
     "q": "^1.4.1"

@@ -644,7 +644,7 @@ The frameworks supports a new extension load contract that can improve extension
 - Remove all requireJS shims.
 - Complete the dependency injected view models migration.
 - Upgrade to at least SDK 14401.
-  - The MSI can be found at this location [\\\\reddog\Builds\branches\git_azureux_portalfx_production_sdk\5.0.302.14401\retail-amd64\src\RDPackages\SdkInstallerPackage\Portal](\\\\reddog\Builds\branches\git_azureux_portalfx_production_sdk\5.0.302.14401\retail-amd64\src\RDPackages\SdkInstallerPackage\Portal)
+  - The SDK can be updated from the [internal package feeds](top-extension-packages.md).
   - $(ExtensionPageVersion) breaking change notes: https://msazure.visualstudio.com/One/_workitems/edit/3276047
 - Prewarming / Web Workers is not a pre-requisite. If an extension onboards to both Prewarming and FastExtensionLoad, the framework will eliminate an additional 500 ms postMessage call, allowing an extension to reach sub-second extension load time.
 
