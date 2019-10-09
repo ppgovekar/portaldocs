@@ -58,7 +58,7 @@ public context: TemplateBlade.Context<void>;
 
 ```
 
-**context**: This property is auto populated by the framework when your blade loads. It contains many APIs you can use to interact with the shell such as blade opening, access to blade parameters, and much more. The context property accepts two generic type arguments. The first represents the type of your parameters. In this simple case we use void because this blade takes no parameters.  You can define your own interface type to define your parameters and then use that type as the first parameter. The second parameter represents the data context type that is shared by all blades in an area.
+**context**: This property is auto populated by the framework when your blade loads. It contains many APIs you can use to interact with the shell such as blade opening, access to blade parameters, and much more. The context property accepts two generic type arguments. The first represents the type of your parameters. 
 
 In this simple case we use void because this blade takes no parameters. You can define your own interface type to define your parameters and then use that type as the first parameter. The second parameter represents the data context type that is shared by all blades in an area.
 
